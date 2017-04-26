@@ -1,0 +1,15 @@
+﻿  Program.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  Generating Code...
+  Compiling...
+  main.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  Generating Code...
+  server.vcxproj -> s:\chris\documents\visual studio 2015\Projects\pete_networking\Debug\server.exe
+  server.vcxproj -> s:\chris\documents\visual studio 2015\Projects\pete_networking\Debug\server.pdb (Full PDB)
